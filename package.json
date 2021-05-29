@@ -1,0 +1,22 @@
+{
+  "name": "planar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "build": "node ./src/index.js",
+    "serve": "node ./src/serve.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "front-matter": "^3.1.0",
+    "marked": "^0.8.0"
+  },
+  "devDependencies": {
+    "express": "^4.17.1",
+    "fs-extra": "^10.0.0"
+  }
+}
