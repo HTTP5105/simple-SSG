@@ -12,10 +12,10 @@ const posts = readdirSync(config.dev.postsdir)
     .sort((a, b) =>  b.attributes.date - a.attributes.date);
 
 if (!existsSync(config.dev.outdir)) {
-  mkdirSync(config.dev.outdir)
+  mkdirSync(config.dev.outdir);
 } else {
   resetPublicDir();
-};
+}
 
 moveContentToPostsDir('assets');
 createPosts(posts);

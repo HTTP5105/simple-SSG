@@ -29,4 +29,4 @@ const foot = () => {
 	</footer>`;
 };
 
-export { head, foot }
+export { head, foot };

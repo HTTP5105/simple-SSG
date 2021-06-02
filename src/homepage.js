@@ -28,10 +28,10 @@ const homepage = posts => `
 </html>`;
 
 const addHomePage = posts => {
-  writeFile(`${config.dev.outdir}/index.html`, homepage(posts), e => {
-    if (e) throw e;
-    console.log(`index.html was created successfully`);
-  });
+    writeFile(`${config.dev.outdir}/index.html`, homepage(posts), e => {
+        if (e) throw e;
+        console.log(`index.html was created successfully`);
+    });
 };
 
 export { addHomePage };
