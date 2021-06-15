@@ -16,5 +16,8 @@
     "front-matter": "^3.1.0",
     "fs-extra": "^10.0.0",
     "marked": "^0.8.0"
+  },
+  "dependencies": {
+    "mocha": "^9.0.0"
   }
 }
