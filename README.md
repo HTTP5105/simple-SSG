@@ -17,12 +17,15 @@ Mohammad, Thai, Ahmed, Vedanshi
 Mohammad
 - Sensitive Data Exposure
 - Injection
+
 Vedanshi
 - Broken Authentication
 - Broken Access Control
+
 Ahmed
 - Cross-Site Scripting
 - Insufficient Logging & Monitoring
+
 Thai
 - Security Misconfiguration
 - Insecure deserialization 
