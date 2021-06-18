@@ -13,6 +13,8 @@ Injection flaws are easy to discover when examining code. Scanners and fuzzers c
 ### Impacts
 Injection can result in data loss, corruption, or disclosure to unauthorized parties, loss of accountability, or denial of access. Injection can sometimes lead to complete host takeover.
 The business impact depends on the needs of the application and data.
+### Group "Plain-English" Explanation
+An injection attack basically uses a bug in the code to change the way a computer program is meant to be executed. In the world of web development, this is usually carried out by using input fields to send a command to the server and alter the intended functionality of the web page.
 
 
 Source: [OWASP](https://owasp.org/www-project-top-ten/2017/A1_2017-Injection)
