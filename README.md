@@ -15,7 +15,16 @@ Mohammad, Thai, Ahmed, Vedanshi
 
 ## Pages contributed
 Mohammad
-- My new Hobby
-- A1:2017-Injection
+- Sensitive Data Exposure
+- Injection
+Vedanshi
+- Broken Authentication
+- Broken Access Control
+Ahmed
+- Cross-Site Scripting
+- Insufficient Logging & Monitoring
+Thai
+- Security Misconfiguration
+- Insecure deserialization 
 
 ## Description of Branching Model
