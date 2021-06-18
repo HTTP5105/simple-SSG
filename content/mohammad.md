@@ -1,19 +1,19 @@
 ---
-title: my scary adventure in pakistan
+title: My New Hobby - Mohammad Page 1
 date: 1580577200000
-description: it was a cool breezy night. i was walking past a graveyard when i heard some noise. a chill ran down my spine as i turned to see a white figure in the distance.
+description: I figured life is short. Why not go for what you want?
 ---
 
-## Plot
+# Suzuki SV650
 
-Source: https://en.wikipedia.org/wiki/Inception
+![image of a Suzuki SV650 motorcycle](content\assets\images\sv650am1_b1g_right.jpg)
+Source: [Suzuki SV650](https://www.globalsuzuki.com/motorcycle/products/sv650/#photos)
 
-Dominick "Dom" Cobb and Arthur are "extractors"; they perform corporate espionage using experimental military technology to infiltrate their targets' subconscious and extract information through a shared dream world. Their latest target, Saito, reveals he arranged their mission to test Cobb for a seemingly impossible job: implanting an idea in a person's subconscious, or "inception". Saito wants Cobb to convince Robert, the son of Saito's competitor Maurice Fischer, to dissolve his father's company. Saito promises to clear Cobb's criminal status, which prevents him from returning home to his children.
+- The Suzuki SV650 and variants are street motorcycles manufactured since 1999 for the international market by the Suzuki Motor Corporation, featuring a mid-sized V-twin engine and medium performance components. In 2009, Suzuki replaced the naked SV650 with the SFV650 Gladius. In 2016, the Gladius name was discontinued and the 2017 model was reverted to SV650.
+- Engine: 645 cc (39.4 cu in) liquid-cooled 4-stroke 8-valve DOHC 90° V-twin
+TSCC (Twin Swirl Combustion Chamber)
+- Power: 64.2 hp (47.9 kW) @ 9000 rpm
+- Torque: 42.3 lbf⋅ft (57.4 N⋅m) @ 7200 rpm
+- Wet Weight: 189 kg (417 lb)
 
-Cobb accepts the offer and assembles his team: Eames, an identity forger; Yusuf, a chemist with a sedative for the "dream within a dream" strategy; and Ariadne – an architecture student of his father-in-law, Professor Stephen Miles – tasked with designing the dream's labyrinth. Ariadne discovers that Cobb's subconscious houses an invasive projection of his late wife, Mal. After Fischer dies, the team accompanies Robert on a flight where they sedate him into a shared dream. At each dream level, the person generating the dream stays behind to set up a "kick" to awaken other team members from the deeper dream. These kicks must occur simultaneously, despite time flowing faster in each successive level.
-
-The first level is Yusuf's dream of Los Angeles. The team abducts Robert, but are attacked by projections from his subconscious. Saito is wounded, and Cobb reveals that while dying in the dream would normally waken dreamers, the sedatives will instead send them into "limbo": a world of infinite subconscious. Eames impersonates Robert's godfather, Peter Browning, to suggest that Robert reconsider his father's will. Cobb tells Ariadne that he and Mal entered limbo while experimenting with the dream-sharing technology. Sedated for five hours of real time, they spent fifty years in a dream world. When Mal refused to return to reality, Cobb used a form of inception by reactivating her totem, an object dreamers use to distinguish dreams from reality. After waking up, Mal still believed she was dreaming. Attempting to "wake up", she committed suicide and framed Cobb to force him to do the same. Cobb fled the U.S., leaving his children in Miles' care.
-
-Yusuf drives the team around the first level as they are sedated into the second level, a hotel dreamed by Arthur. Cobb persuades Robert that he has been kidnapped by Browning, and that Cobb is his subconscious protector, leading Robert yet another level deeper as part of a ruse to enter Robert's subconscious. In the third level, the team infiltrate a fortified mountain hospital dreamed by Eames, and hold off the guards as Saito takes Robert into the equivalent of his subconscious. Yusuf, pursued by Robert's projections in the first level, deliberately drives off a bridge, initiating his kick too soon. This causes an avalanche in Eames' level, and removes gravity on Arthur's level, forcing Arthur to improvise a new kick synchronized with the van hitting the water. Mal's projection emerges in Eames' level and kills Robert; Cobb kills Mal, and Saito succumbs to his wounds. Cobb and Ariadne enter limbo to rescue Robert and Saito, while Eames prepares a kick by rigging the hospital with explosives.
-
-Cobb makes peace with Mal's death. Ariadne kills Mal's projection and wakes up Robert with a kick. Revived into the third level, he discovers the planted idea: a projection of his dying father telling him to be his own man. While Cobb searches for Saito in limbo, the others ride the kicks back to reality. Cobb finds an aged Saito and reminds him of their agreement. The dreamers all awaken on the plane, and Saito makes a phone call. Arriving at Los Angeles International Airport, Cobb passes the immigration checkpoint and Miles accompanies him to his home. Cobb uses Mal's totem – a top that spins indefinitely in a dream – to test if he is indeed in the real world, but chooses not to observe the result and instead joins his children.
+Source: [Wikipedia](https://en.wikipedia.org/wiki/Suzuki_SV650)
