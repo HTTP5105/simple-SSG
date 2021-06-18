@@ -1,7 +1,7 @@
 ---
 title: A1:2017-Injection - Mohammad Page 2
 date: 1580577200000
-description: Code injection is the exploitation of a computer bug that is caused by processing invalid data. The injection is used by an attacker to introduce (or "inject") code into a vulnerable computer program and change the course of execution. The result of successful code injection can be disastrous, for example, by allowing computer viruses or computer worms to propagate. [Source](https://en.wikipedia.org/wiki/Code_injection)
+description: Code in jection is the exploitation of a computer bug that is caused by processing invalid data. The injection is used by an attacker to introduce (or "inject") code into a vulnerable computer program and change the course of execution. The result of successful code injection can be disastrous, for example, by allowing computer viruses or computer worms to propagate. [Source](https://en.wikipedia.org/wiki/Code_injection)
 ---
 
 # Injection Attack
